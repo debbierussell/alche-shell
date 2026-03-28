@@ -1,8 +1,2 @@
 #!/bin/bash
 cd -
-
-h
-
-cat << 'EOF' > 10-back
-#!/bin/bash
-cd -
